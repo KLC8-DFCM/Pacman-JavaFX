@@ -1,0 +1,16 @@
+Jogador(a) : Ana fez 87010 pontos, chegou ate nivel 12 no mapa 0
+Jogador(a) : Bruno fez 5670 pontos, chegou ate nivel 2 no mapa 1
+Jogador(a) : Caio fez 3850 pontos, chegou ate nivel 1 no mapa 0
+Jogador(a) : Diego fez 2170 pontos, chegou ate nivel 1 no mapa 1
+Jogador(a) : Enzo fez 3690 pontos, chegou ate nivel 2 no mapa 1
+Jogador(a) : Ferdinando fez 9180 pontos, chegou ate nivel 3 no mapa 1
+Jogador(a) : Gilberto fez 10 pontos, chegou ate nivel 1 no mapa 1
+Jogador(a) : Heloisa fez 2700 pontos, chegou ate nivel 1 no mapa 1
+Jogador(a) : Ivan fez 2620 pontos, chegou ate nivel 1 no mapa 0
+Jogador(a) : ivan fez 18210 pontos, chegou ate nivel 5 no mapa 1
+Jogador(a) : Drácula fez 230 pontos, chegou ate nivel 1 no mapa 1
+Jogador(a) : Diego fez 4540 pontos, chegou ate nivel 2 no mapa 1
+Jogador(a) : Teste fez 10 pontos, chegou ate nivel 1 no mapa 1
+Jogador(a) : Hello fez 5110 pontos, chegou ate nivel 2 no mapa 0
+Jogador(a) : Diego fez 10 pontos, chegou ate nivel 1 no mapa 1
+Jogador(a) : Fabio Flinstone fez 4430 pontos, chegou ate nivel 1 no mapa 1
